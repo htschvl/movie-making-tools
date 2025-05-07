@@ -1,9 +1,8 @@
 [tool.poetry]
-name = "lucca"
+name = "Movie-making tools - conversion"
 version = "0.1.0"
 description = ""
-authors = ["Clarice Hatischvili <claricehatischvili@gmail.com>"]
-readme = "README.md"
+authors = ["Clarice Hatischvili <cdmhda@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.13"
